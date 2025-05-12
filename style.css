@@ -1,0 +1,26 @@
+h1{
+    color: white;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: left;
+    align-items: left;
+}
+.futbol{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+h2.futbol{
+    color: rgb(66, 117, 56);
+}
+.tema{
+    color: white;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.616);
+    font-size: large;
+    text-align: center;
+}
+body{
+    align-items: center;
+    text-align: center;
+}
+
